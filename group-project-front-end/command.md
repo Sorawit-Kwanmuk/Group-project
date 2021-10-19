@@ -2,3 +2,5 @@
 - `npm i express`
 - `npm i axios jwt-decode react-router-dom`
 - `npm install @mui/material`
+- `npm install @emotion/react`
+- `npm install @emotion/styled`
